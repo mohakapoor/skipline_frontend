@@ -1,7 +1,7 @@
 function App() {
   return (
     <main>
-      <h1>Skipline</h1>
+      <h1>SKIPLINE</h1>
     </main>
   )
 }
